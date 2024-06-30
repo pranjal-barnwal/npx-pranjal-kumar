@@ -1,2 +1,2 @@
 # npx-pranjal-kumar
-CLI based portfolio with package published on npmjs.com
+CLI based profile with package published on npmjs.com

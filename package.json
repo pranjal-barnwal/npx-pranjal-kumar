@@ -1,0 +1,36 @@
+{
+  "name": "pranjal-kumar",
+  "version": "1.1.0",
+  "description": "CLI based profile with package published on npmjs.com",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/pranjal-barnwal/npx-pranjal-kumar.git",
+  "keywords": [
+    "npx",
+    "portfolio",
+    "cli-profile"
+  ],
+  "author": "Pranjal Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranjal-barnwal/npx-pranjal-kumar/issues"
+  },
+  "homepage": "https://github.com/pranjal-barnwal/npx-pranjal-kumar",
+  "linkedIn": "https://www.linkedin.com/in/pranjal-barnwal",
+  "type": "module",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0",
+    "clear": "^0.1.0",
+    "figlet": "^1.7.0",
+    "inquirer": "^9.3.1",
+    "open": "^10.1.0",
+    "screenfull": "^6.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
