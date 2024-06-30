@@ -3,7 +3,7 @@
 
 <h1 align="center" style="color: #3fe041;">
   <br>
-    <img src="https://github.com/pranjal-barnwal/pranjal-barnwal/assets/71400605/2f37355c-1ff1-4900-9b29-c2d3b2ac0ef8)" alt="`npx pranjal-kumar` | pranjal-barnwal Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha | Bentley Systems" width="200">
+    <img src="https://github.com/pranjal-barnwal/pranjal-barnwal/assets/71400605/2f37355c-1ff1-4900-9b29-c2d3b2ac0ef8" alt="`npx pranjal-kumar` | pranjal-barnwal Pranjal Kumar, Hazaribag Jharkhand India, CGU Odisha | Bentley Systems" width="500">
   <br><br>
   <a href="https://www.npmjs.com/package/pranjal-kumar">
   npx pranjal-kumar
